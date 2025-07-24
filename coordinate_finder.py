@@ -1,4 +1,3 @@
-# coordinate_finder.py
 import pyautogui
 import time
 print("="*50 + "\nマウス座標 発見ツール\n" + "="*50)
